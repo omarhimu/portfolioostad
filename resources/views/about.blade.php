@@ -37,7 +37,7 @@
             <div class="row">
               <div class="col-lg-6">
                 <ul>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>1 Jan 1998</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>11 August 1998</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+8801845680884</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>Chittagong</span></li>
                 </ul>
